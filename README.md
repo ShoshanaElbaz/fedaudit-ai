@@ -117,7 +117,7 @@ client/
 ### Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ShoshanaElbaz/fedaudit-ai.git
 cd fedaudit-ai
 
 # Server dependencies
@@ -208,3 +208,14 @@ Response:
 ```
 
 --- 
+## Screenshots
+
+### Upload Page
+<img width="1063" height="859" alt="Upload Page" src="https://github.com/user-attachments/assets/ecc99032-8914-408b-9b10-c21eb11265be" />
+
+### Validation Results — Discrepancies Detected
+<img width="1261" height="854" alt="Results with discrepancies" src="https://github.com/user-attachments/assets/35d6adc3-3a56-449b-83b1-dcec47fe9af9" />
+<img width="1164" height="823" alt="Chargeable weight discrepancy" src="https://github.com/user-attachments/assets/d714109b-affb-4997-9f7b-0d03d4fa5dee" />
+<img width="1153" height="759" alt="Base rate discrepancy" src="https://github.com/user-attachments/assets/193b753c-d118-4025-a012-8b9d01e5d9b3" />
+<img width="1166" height="710" alt="Shipment validation breakdown" src="https://github.com/user-attachments/assets/c4132a9d-22f9-47f1-bc5f-899ef9541d56" />
+
